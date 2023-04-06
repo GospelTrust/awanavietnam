@@ -1,0 +1,8 @@
+buttons:
+  - text: Register
+    url: /modules/church-registration
+    color: link
+
+languages:
+  - tag: en
+  - tag: vi

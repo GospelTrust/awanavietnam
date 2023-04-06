@@ -1,0 +1,4 @@
+buttons:
+  - text: Ghi danh
+    url: /modules/vi/church-registration
+    color: link

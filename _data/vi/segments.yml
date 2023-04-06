@@ -1,0 +1,55 @@
+main:
+  offset-top: 75px
+  justify: center
+  headers:
+    - Tiếp cận trẻ em.
+    - Trang bị lãnh đạo.
+    - Thay đổi thế giới.
+  text: |
+    Chúng tôi cầu nguyện cho tất cả trẻ em trên khắp thế giới sẽ biết,
+    yêu mến và phục vụ Chúa Jêsus Christ.
+  button:
+    label: Tìm hiểu thêm
+    href: /modules/vi/vision-and-mission
+    color: secondary
+
+about:
+  justify: center
+  background-color: greenyellow
+  headers:
+    - Awana
+  subheader: |
+    BELONG &bull; BELIEVE &bull; BECOME
+  text: |
+    Tiếp cận trẻ em bằng phúc âm và thu hút các em trở thành môn đồ lâu dài.
+    Gây dựng trẻ em trong cộng đồng yêu thương, tin vào lời Chúa và trở thành môn đồ của Chúa Jêsus.
+  more:
+    label: Tìm hiểu thêm
+    href: /modules/vi/about
+
+ministry:
+  justify: center
+  background-color: aquamarine
+  headers:
+    - Awana Ministry
+  text: |
+    Tập trung vào phúc âm, kinh thánh, phát triển người lãnh đạo,
+    mối quan hệ môn đệ lâu dài và đảm bảo rằng các mục vụ vui vẻ và thú vị!
+  more:
+    label: Tìm hiểu thêm
+    href: /modules/vi/ministry
+
+vision-mission:
+  type: rounded
+  boxes:
+    - title: KHẢI TƯỢNG
+      text: Để thấy mỗi em nhận biết, yêu mến và phục vụ Chúa Jêsus trọn đời.
+      color: white
+      background-image: 'linear-gradient(180deg, #6AC6E4 0%, #34A9D6 100%)'
+
+    - title: SỨ MỆNH
+      text: |
+        Hợp tác với các hội thánh, phụ huynh và các tổ chức khác trong việc chia sẻ phúc âm
+        và dạy dỗ trẻ em trong hành trình đức tin.
+      color: white
+      background-image: 'linear-gradient(180deg, #E98069 0%, #DE4D37 100%)'
