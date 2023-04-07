@@ -1,7 +1,8 @@
 theme: askclass-home-theme
 title: "Awana Vietnam"
 description: >
-  Welcome to Awana Vietnam!
+  Awana Vietnam is reaching kids with the gospel and engaging them in long-term discipleship.
+  Helping kids belong to a loving community, believe in God's word, and become followers of Jesus.
 
 ach:
   date_format: "%b %d, %y"
@@ -21,10 +22,7 @@ ach:
   meta:
     apple_icon: "logo-300.png"
     og_image: "logo-square-512.png"
-    shortcut:
-      favicon: "favicon.ico"
-      type: "image/png"
-      image: "logo-96.png"
+    favicon: "favicon.ico"
     keywords: >
       edtech,
       education,
