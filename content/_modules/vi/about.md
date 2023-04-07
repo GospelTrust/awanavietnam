@@ -1,4 +1,5 @@
 ---
+lang: vi
 ---
 # What is Awana?
 

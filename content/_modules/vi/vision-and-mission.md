@@ -1,4 +1,5 @@
 ---
+lang: vi
 ---
 
 # Vision & Mission
