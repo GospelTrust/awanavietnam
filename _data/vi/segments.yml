@@ -1,4 +1,5 @@
 main:
+  type: fullpage
   offset-top: 75px
   justify: center
   headers:
@@ -14,6 +15,7 @@ main:
     color: secondary
 
 about:
+  type: fullpage
   justify: center
   background-color: greenyellow
   headers:
@@ -28,6 +30,7 @@ about:
     href: /modules/vi/about
 
 ministry:
+  type: fullpage
   justify: center
   background-color: aquamarine
   headers:
@@ -42,12 +45,14 @@ ministry:
 vision-mission:
   type: rounded
   boxes:
-    - title: KHẢI TƯỢNG
+    - title: KHẢI<br/>TƯỢNG
+      class: larger
       text: Để thấy mỗi em nhận biết, yêu mến và phục vụ Chúa Jêsus trọn đời.
       color: white
       background-image: 'linear-gradient(180deg, #6AC6E4 0%, #34A9D6 100%)'
 
-    - title: SỨ MỆNH
+    - title: SỨ<br/>MỆNH
+      class: larger
       text: |
         Hợp tác với các hội thánh, phụ huynh và các tổ chức khác trong việc chia sẻ phúc âm
         và dạy dỗ trẻ em trong hành trình đức tin.

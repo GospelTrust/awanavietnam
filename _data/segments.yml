@@ -1,5 +1,6 @@
 main:
   offset-top: 75px
+  type: fullpage
   justify: center
   background-color: '#fefefe'
   headers:
@@ -19,6 +20,7 @@ main:
     right: true
 
 about:
+  type: fullpage
   justify: center
   background-color: '#97cbac'
   headers:
@@ -26,16 +28,17 @@ about:
   subheader: |
     BELONG &bull; BELIEVE &bull; BECOME
   text: |
-    Reaching kids with the gospel and engaging them in long-term discipleship.
-    Helping kids belong to a loving community, believe in God's word, and become followers of Jesus.
+    Reaching kids with the gospel and engaging them in long-term discipleship.<br/>
+    <br/>Helping kids belong to a loving community, believe in God's word, and become followers of Jesus.
   more:
-    label: Read more
+    label: Continue reading
     href: /modules/about
   image:
     src: https://media.discordapp.net/attachments/1019999609650675772/1093283325461921902/paul_origami_of_a_child_on_a_swing_papercraft_minimalism_2_6c596895-e0a8-41af-b605-20bd6e945a81.png
     text: 'A Child'
 
 ministry:
+  type: fullpage
   justify: center
   background-color: '#fbd367'
   headers:
@@ -52,9 +55,14 @@ ministry:
     right: true
 
 vision-mission:
+  headers:
+    - Vision & Mission
+
+cornerstone:
   type: rounded
   boxes:
-    - title: OUR VISION
+    - title: OUR<br/>VISION
+      class: shift larger
       text: To see every girl and boy come to Know, Love and Serve Jesus their whole life.
       color: white
       background-image: 'linear-gradient(180deg, #6AC6E4 0%, #34A9D6 100%)'
@@ -63,7 +71,8 @@ vision-mission:
         text: 'The World'
         width: 100%
 
-    - title: OUR MISSION
+    - title: OUR<br/>MISSION
+      class: shift larger
       text: |
         To partner with churches, parents, and other organizations in sharing the gospel
         and relationally discipling kids in their faith journey.
