@@ -14,8 +14,10 @@ main:
     label: Tìm hiểu thêm
     href: /modules/vi/vision-and-mission
     color: secondary
-  image:
-    src: https://media.discordapp.net/attachments/1019999609650675772/1093661784457609318/paul_papercraft_a_boy_girl_and_a_dog_white_background_origami_3_1385cfdc-4fe9-4e21-b6d8-eb93fcc36b23.png?width=836&height=469
+  video:
+    src: https://firebasestorage.googleapis.com/v0/b/awana-dev.appspot.com/o/vietnam%2Fvideos%2F2023-05-16-demo.mp4?alt=media&token=8991abe0-a927-4a45-a15b-d387a65615d9
+#  image:
+#    src: https://media.discordapp.net/attachments/1019999609650675772/1093661784457609318/paul_papercraft_a_boy_girl_and_a_dog_white_background_origami_3_1385cfdc-4fe9-4e21-b6d8-eb93fcc36b23.png?width=836&height=469
     text: 'Children'
     right: true
 
