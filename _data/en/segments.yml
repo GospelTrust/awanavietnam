@@ -1,0 +1,85 @@
+main:
+  offset-top: 75px
+  type: fullpage
+  justify: center
+  background-color: '#fefefe'
+  headers:
+    - Reach Kids.
+    - Equip Leaders.
+    - Change the World.
+  text: |
+    We pray that all children throughout the world will come to
+    know, love, and serve the Lord Jesus Christ.
+  button:
+    label: Learn More
+    href: /modules/vision-and-mission
+    color: secondary
+  image:
+    src: https://media.discordapp.net/attachments/1019999609650675772/1093661784457609318/paul_papercraft_a_boy_girl_and_a_dog_white_background_origami_3_1385cfdc-4fe9-4e21-b6d8-eb93fcc36b23.png?width=836&height=469
+    text: 'Children'
+    right: true
+
+about:
+  type: fullpage
+  justify: center
+  background-color: '#97cbac'
+  headers:
+    - Awana
+  subheader: |
+    BELONG &bull; BELIEVE &bull; BECOME
+  text: |
+    Reaching kids with the gospel and engaging them in long-term discipleship.<br/>
+    <br/>Helping kids belong to a loving community, believe in God's word, and become followers of Jesus.
+  more:
+    label: Continue reading
+    href: /modules/about
+  image:
+    src: https://media.discordapp.net/attachments/1019999609650675772/1093283325461921902/paul_origami_of_a_child_on_a_swing_papercraft_minimalism_2_6c596895-e0a8-41af-b605-20bd6e945a81.png
+    text: 'A Child'
+
+ministry:
+  type: fullpage
+  justify: center
+  background-color: '#fbd367'
+  headers:
+    - Awana Ministry
+  text: |
+    Focused on the gospel, scripture, leader development, long-term relational discipleship,
+    and ensuring that ministries are fun and exciting!
+  more:
+    label: Learn More
+    href: /modules/ministry
+  image:
+    src: https://media.discordapp.net/attachments/1019999609650675772/1093246215832998029/paul_origami_of_a_plant_papercraft_minimalism_3_ba3be32a-9258-42f7-b761-2866d8815213.png
+    text: 'A Small Plant'
+    right: true
+
+vision-mission:
+  headers:
+    - Vision & Mission
+
+cornerstone:
+  type: rounded
+  boxes:
+    - title: OUR<br/>VISION
+      class: shift larger
+      text: To see every girl and boy come to Know, Love and Serve Jesus their whole life.
+      color: white
+      background-image: 'linear-gradient(180deg, #6AC6E4 0%, #34A9D6 100%)'
+      image:
+        src: https://media.discordapp.net/attachments/1019999609650675772/1093659829362507846/paul_planet_earth_in_origami_style_papercraft_paper_scape_1_ea75d2e5-e489-4b91-b639-8bf849d2b76d.png
+        text: 'The World'
+        width: 100%
+
+    - title: OUR<br/>MISSION
+      class: shift larger
+      text: |
+        To partner with churches, parents, and other organizations in sharing the gospel
+        and relationally discipling kids in their faith journey.
+      color: white
+      background-image: 'linear-gradient(180deg, #E98069 0%, #DE4D37 100%)'
+      image:
+        src: https://media.discordapp.net/attachments/1019999609650675772/1093660768089669632/paul_origami_of_two_hearts_linked_together_papercraft_minimalis_ece28a42-e311-4c6e-88d8-f1d4696f13b4.png
+        text: 'The Hearts'
+        width: 100%
+
