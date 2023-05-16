@@ -20,32 +20,32 @@ Chúng tôi tin rằng khi một đứa trẻ cảm thấy mình **Thuộc** v�
 
 # Giá trị cốt lõi của chúng tôi
 
-### PHÚC ÂM LÀM TRUNG TÂM
+## PHÚC ÂM LÀM TRUNG TÂM
 
 - Chúng tôi tin rằng Phúc âm phải được chia sẻ thường xuyên và khẩn cấp.
 - Tài liệu Awana được xây dựng trong nền tảng của Phúc âm phù hợp với mọi vấn đề của thời đại.
 - Các nhà lãnh đạo được huấn luyện để chia sẻ Phúc âm như một phần của các sự kiện đã được lên kế hoạch của họ và trong các cuộc trò chuyện hàng ngày với trẻ em.
 - Dù một đứa trẻ đến một đêm hay mỗi đêm, chúng sẽ được nghe Phúc âm của Chúa Giêsu.
 
-### TẬP TRUNG VÀO KINH THÁNH
+## TẬP TRUNG VÀO KINH THÁNH
 
 - Lời Chúa có thể được sử dụng cho cả 2 sự hiểu biết về Chúa, hoặc  thực sự sâu nhiệm trong sự nhận biết về Chúa.
 - Đây là điều đầu tiên mong muốn của Chúa và đó là lý do tại sao tại Awana, chúng tôi muốn các nhà lãnh đạo giúp trẻ em hiểu về kinh thánh.
 - Những nhà lãnh đạo tuyệt vời sẽ giúp các em ghi nhớ kinh thánh và cũng sẽ hiểu ý nghĩa của Lời Chúa trong cuộc sống của các em.
 - Các em sẽ bị ảnh hưởng cả trong tâm trí và trái tim của chúng.
 
-### VUI VẺ VÀ HÀO HỨNG
+## VUI VẺ VÀ HÀO HỨNG
 
 - Chúng tôi muốn các trẻ ghi nhớ những giờ ở trong nhà thờ như một trong những khoảng thời gian hạnh phúc nhất trong cuộc đời chúng.
 - Chơi phù hợp với lứa tuổi và an toàn sẽ hữu ích trong việc hình thành tình bạn với bạn bè đồng trang lứa cũng như với các giáo viên của chúng.
 - Các nhà lãnh đạo tuyệt vời khuyến khích mọi người tham gia vì họ biết rằng các trò chơi đồng đội thúc đẩy lòng tự trọng lành mạnh và việc trở thành thành viên của một nhóm tạo ra cảm giác thân thuộc.
 
-### HỢP TÁC VỚI PHỤ HUYNH
+## HỢP TÁC VỚI PHỤ HUYNH
 
 - Cha mẹ có vai trò quan trọng trong việc nêu gương và dạy dỗ đức tin, nhưng điều gì sẽ xảy ra khi cha mẹ không chuẩn bị cho các cuộc trò chuyện về Phúc âm hoặc Chúa Giê-su với các em?
 - Cho dù cha mẹ có gắn bó với đức tin của con cái mình hay không, chúng tôi muốn khuyến khích những khoảnh khắc đặc biệt và đôi khi đơn giản để cha mẹ và con cái cùng nhau trong hành trình đức tin của chính gia đình mình.
 
-### ĐƯỢC XÂY DỰNG TRÊN SỰ LÃNH ĐẠO MẠNH MẼ
+## ĐƯỢC XÂY DỰNG TRÊN SỰ LÃNH ĐẠO MẠNH MẼ
 
 - Awana đào tạo và trang bị cho các nhà lãnh đạo để chia sẻ chân thực về Chúa Giê-su thông qua các mối quan hệ có ý nghĩa.
 - Chúng tôi tin rằng lẽ thật và tình yêu thuộc về nhau và Chúa Giêsu đã cho chúng tôi một ví dụ hoàn hảo về điều đó.
