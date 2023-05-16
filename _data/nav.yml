@@ -1,8 +1,8 @@
-buttons:
-  - text: Register
-    url: /modules/church-registration
-    color: link
-    hidden: hide-small
+#buttons:
+#  - text: Register
+#    url: /modules/church-registration
+#    color: link
+#    hidden: hide-small
 
 languages:
   - tag: en
