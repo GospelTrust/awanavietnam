@@ -1,4 +1,5 @@
 ---
+lang: en
 ---
 # What is Awana?
 

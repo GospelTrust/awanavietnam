@@ -1,5 +1,6 @@
 segments:
   - main
+  - training
   - about
   - ministry
   - vision-mission

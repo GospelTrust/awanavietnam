@@ -1,3 +1,14 @@
+training:
+  type: fullpage
+  justify: center
+  headers:
+    - Huấn luyện 2023
+  text: |
+    Chương trình giới thiệu và huấn luyện mở câu lạc bộ Awana tại Hội Thánh địa phương.
+  button:
+    label: Chương trình
+    href: /modules/vi/schedule
+
 main:
   type: fullpage
   offset-top: 75px

@@ -1,4 +1,5 @@
 ---
+lang: en
 ---
 
 # Register Your Church

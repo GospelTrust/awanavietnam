@@ -1,3 +1,14 @@
+training:
+  type: fullpage
+  justify: center
+  headers:
+    - Training 2023
+  text: |
+    Training local churches to start Awana clubs.
+  button:
+    label: Schedule
+    href: /modules/en/schedule
+
 main:
   offset-top: 75px
   type: fullpage
@@ -12,7 +23,7 @@ main:
     know, love, and serve the Lord Jesus Christ.
   button:
     label: Learn More
-    href: /modules/vision-and-mission
+    href: /modules/en/vision-and-mission
     color: secondary
   image:
     src: https://media.discordapp.net/attachments/1019999609650675772/1093661784457609318/paul_papercraft_a_boy_girl_and_a_dog_white_background_origami_3_1385cfdc-4fe9-4e21-b6d8-eb93fcc36b23.png?width=836&height=469
@@ -32,7 +43,7 @@ about:
     <br/>Helping kids belong to a loving community, believe in God's word, and become followers of Jesus.
   more:
     label: Continue reading
-    href: /modules/about
+    href: /modules/en/about
   image:
     src: https://media.discordapp.net/attachments/1019999609650675772/1093283325461921902/paul_origami_of_a_child_on_a_swing_papercraft_minimalism_2_6c596895-e0a8-41af-b605-20bd6e945a81.png
     text: 'A Child'
@@ -48,7 +59,7 @@ ministry:
     and ensuring that ministries are fun and exciting!
   more:
     label: Learn More
-    href: /modules/ministry
+    href: /modules/en/ministry
   image:
     src: https://media.discordapp.net/attachments/1019999609650675772/1093246215832998029/paul_origami_of_a_plant_papercraft_minimalism_3_ba3be32a-9258-42f7-b761-2866d8815213.png
     text: 'A Small Plant'

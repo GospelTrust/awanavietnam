@@ -4,6 +4,6 @@
 #    color: link
 #    hidden: hide-small
 
-languages:
-  - tag: vi
-  - tag: en
+#languages:
+#  - tag: en
+#  - tag: vi
