@@ -2,11 +2,11 @@
 lang: vi
 ---
 
-# Xây dựng các Lãnh đạo phục vụ
+# Xây dựng các lãnh đạD đầy tớ
 
 ## Mục tiêu
 
-- Xác định các đặc điểm của một nhà lãnh đạo Awana
+- Xác định các đặc điểm của một lãnh đạo Awana
 - Hiểu cấu trúc lãnh đạo trong Awana
 - Xác định các nguyên tắc trong việc hình thành và củng cố một đội nhóm Awana
 
@@ -40,7 +40,6 @@ Time (min) | Section
 - Hebrews 13:17
 - Psalm 119:47
 
-[Các câu gốc]({% post_url /modules/training/vi/leadership/leadership-verses %})
 
 ### Lưu ý cho điều hành viên
 
